@@ -44,7 +44,7 @@ function currentCondition(city) {
             <h2 id="currentCity">
                 ${cityWeatherResponse.name} ${today} <img src="${iconURL}" alt="${cityWeatherResponse.weather[0].description}" />
             </h2>
-            <p>Temperature: ${cityWeatherResponse.main.temp} °F</p>// the temperature
+            <p>Temperature: ${cityWeatherResponse.main.temp} °F</p>
             <p>Humidity: ${cityWeatherResponse.main.humidity}\%</p>
             <p>Wind Speed: ${cityWeatherResponse.wind.speed} MPH</p>
         `);

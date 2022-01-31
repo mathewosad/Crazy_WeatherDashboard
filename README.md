@@ -2,7 +2,7 @@
 
 ## Task
 
-AS a developer i made a web app to see the weather outlook for multiple cities.
+AS a developer i developed a web app to see the weather outlook for multiple cities.
 
 ## Description 
 
@@ -16,18 +16,8 @@ THEN User is presented with a color that indicates whether the conditions are fa
 WHEN User view future weather conditions for that city
 THEN User is presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
 WHEN User clicks on a city in the search history
-THEN I am again presented with current and future conditions for that city
+THEN User is again presented with current and future conditions for that city
 
-
-## Mock-Up
-
-The following image shows the web application's appearance and functionality:
-
-![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Atlanta.](./Assets/06-server-side-apis-homework-demo.png)
-
-## Grading Requirements
-
-.
 
 ### Deployment:
 
@@ -58,9 +48,9 @@ The following image shows the web application's appearance and functionality:
 
 * Repository contains quality readme file with description, screenshot, and link to deployed application.
 
-* The URL of the functional, deployed application.()
+* The URL of the functional, deployed application.(https://mathewosad.github.io/Crazy_WeatherDashboard/)
 
-* The URL of the GitHub repository. ()
+* The URL of the GitHub repository. (https://github.com/mathewosad/Crazy_WeatherDashboard)
 
 * Screenshot 
 ![](assets\CrazyWeather.JPG)
