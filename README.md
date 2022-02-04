@@ -53,6 +53,6 @@ THEN User is again presented with current and future conditions for that city
 * The URL of the GitHub repository. (https://github.com/mathewosad/Crazy_WeatherDashboard)
 
 * Screenshot 
-![](assets\CrazyWeather.JPG)
+![](./assets\CrazyWeather.JPG)
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
